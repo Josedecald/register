@@ -1,0 +1,10 @@
+{
+  "description": "Sitio de recepción Infotrack.",
+  "owner": {
+    "username": "josedecald",
+    "email": "josedecald@gmail.com"
+  },
+  "record": {
+    "CNAME": "josedecald.github.io"
+  }
+}
